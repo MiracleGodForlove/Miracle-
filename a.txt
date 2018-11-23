@@ -3,3 +3,4 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/MiracleGodForlove/Miracle-.git
 git push -u origin master
+do you love me?
